@@ -1,0 +1,65 @@
+/*
+Verde olivo #4A5D4F
+
+Arena #E6DCCF
+
+Blanco cálido #FAFAF7
+
+Terracota (acento) #C46A4A
+*/
+
+
+
+.arenaInm{
+	background-color: #E6DCCF !important;
+}
+
+.textoInm{
+	color: #4A5D4F !important;
+}
+.btonImb{
+	width: 20% !important;
+	margin-top: 30px;
+	border-color: #4A5D4F;
+}
+.btonImb: hover{
+	width: 20% !important;
+	margin-top: 30px;
+	border-color: #4A5D4F;
+}
+
+.verde{
+	background-color: #4A5D4F !important;
+}
+.form-mg{
+	margin-top: 2rem ;
+}
+.pading-form{
+	margin-bottom: 0rem !important;
+	padding-bottom: 30px	;
+}
+
+.quienesSomotxt{
+	text-align: center !important;
+	padding-top: 0px;
+	padding-bottom: 30px;
+}
+
+.nueDeText{
+	padding-bottom: 30px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.img-size{
+	width: 35px;
+}
+
+@media (min-width: 320px ) and  (max-width: 992px ) {
+	  .btonImb{
+		width: 30% !important;
+		margin-top: 30px;
+		border-color: #4A5D4F;
+	}
+}
